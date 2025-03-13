@@ -6,16 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/db_overall_avg.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/db_summary.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test4-5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test4-5.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test4-6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test4-6.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test5-1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test5-2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test5-3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test5-4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test5-7.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test5-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test5-1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test5-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test5-2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +98,9 @@
       <workItem from="1741562581279" duration="2849000" />
       <workItem from="1741567919932" duration="42672000" />
       <workItem from="1741673053160" duration="21416000" />
-      <workItem from="1741751158064" duration="12785000" />
+      <workItem from="1741751158064" duration="13095000" />
+      <workItem from="1741819903078" duration="199000" />
+      <workItem from="1741820179249" duration="9544000" />
     </task>
     <servers />
   </component>
