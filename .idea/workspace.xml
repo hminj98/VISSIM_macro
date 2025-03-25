@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/2.0/123.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/123.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim20-30_car100.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim20-30_car100.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_car100.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim5-15_car100.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/time_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/time_average_iteration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/12345.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/12345.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/add_density.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/add_density.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/hminj98/VISSIM_macro.git&quot;,
-    &quot;accountId&quot;: &quot;6fe0fcda-17f4-47fb-b4ce-27b033c938fe&quot;
+    &quot;accountId&quot;: &quot;868a5e58-71e7-4ae6-8435-6b2174103400&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -59,13 +56,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Workspace/vissimTest_Python/network_version2/2.0&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -79,6 +77,31 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Workspace\vissimTest_Python\network_version1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python_Workspace" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -132,6 +155,10 @@
       <workItem from="1742861229395" duration="39000" />
       <workItem from="1742861306122" duration="1488000" />
       <workItem from="1742862825584" duration="18407000" />
+      <workItem from="1742907788977" duration="7000" />
+      <workItem from="1742907804504" duration="394000" />
+      <workItem from="1742908214050" duration="1396000" />
+      <workItem from="1742910093969" duration="127000" />
     </task>
     <servers />
   </component>
@@ -148,5 +175,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
