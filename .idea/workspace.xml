@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/network_version2/2.0/rename_file.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/time_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/time_average_iteration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/rename_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/rename_file.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/vehicle_average_iteration4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,7 @@
       <workItem from="1742574866676" duration="3478000" />
       <workItem from="1742611629771" duration="24000" />
       <workItem from="1742616662929" duration="4303000" />
-      <workItem from="1742770521811" duration="28408000" />
+      <workItem from="1742770521811" duration="33583000" />
     </task>
     <servers />
   </component>
