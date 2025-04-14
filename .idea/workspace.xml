@@ -6,24 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/rename_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/rename_file.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/time_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/time_average_iteration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/time_average_iteration2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/time_average_iteration2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/vehicle_average_iteration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_average_iteration2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/vehicle_average_iteration2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_type_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/vehicle_type_test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_type_test2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_type_test3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/3.0/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_weights_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/vehicle_weights_iteration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_weights_iteration2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/vehicle_weights_iteration2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/volume_output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/volume_output.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/volume_output2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/volume_output3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/weights_output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/weights_output.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/weights_output2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/weights_output2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/weights_output3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/weights_output3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +151,8 @@
       <workItem from="1744176698443" duration="28156000" />
       <workItem from="1744327863877" duration="3919000" />
       <workItem from="1744331930040" duration="689000" />
-      <workItem from="1744334216924" duration="14265000" />
+      <workItem from="1744334216924" duration="15717000" />
+      <workItem from="1744585238799" duration="11496000" />
     </task>
     <servers />
   </component>
