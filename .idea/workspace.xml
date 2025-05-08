@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/rename_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/rename_file.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/3.file_arrange.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/3.file_arrange.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/volume_output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/volume_output.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume_2.0.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume_2.0.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,23 +58,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Workspace/vissimTest_Python/network_version2/3.0",
+    "last_opened_file_path": "C:/Workspace/vissimTest_Python/network_version2/4.0",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\4.0" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\3.0" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2.0" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2.1" />
       <recent name="C:\Workspace\vissimTest_Python\test2" />
-      <recent name="C:\Workspace\vissimTest_Python\test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Workspace\vissimTest_Python\network_version2\3.0" />
@@ -192,7 +190,11 @@
       <workItem from="1745206277645" duration="2602000" />
       <workItem from="1745216534934" duration="3495000" />
       <workItem from="1745294087895" duration="5960000" />
-      <workItem from="1745366173705" duration="8852000" />
+      <workItem from="1745366173705" duration="14289000" />
+      <workItem from="1745450088429" duration="4975000" />
+      <workItem from="1745795273744" duration="1509000" />
+      <workItem from="1745994987918" duration="4302000" />
+      <workItem from="1746600844492" duration="26007000" />
     </task>
     <servers />
   </component>
