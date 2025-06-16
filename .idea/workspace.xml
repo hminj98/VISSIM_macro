@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_weights_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/vehicle_weights_iteration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/4.0/1.vehicle_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/1.vehicle_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim20-30_car100.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_car100.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +200,12 @@
       <workItem from="1747373397245" duration="6926000" />
       <workItem from="1747632409738" duration="27554000" />
       <workItem from="1747802867366" duration="3031000" />
-      <workItem from="1748235057636" duration="4540000" />
+      <workItem from="1748235057636" duration="4585000" />
+      <workItem from="1748559308485" duration="4444000" />
+      <workItem from="1748992669912" duration="2845000" />
+      <workItem from="1750028643326" duration="5492000" />
+      <workItem from="1750038646743" duration="12136000" />
+      <workItem from="1750058892965" duration="1831000" />
     </task>
     <servers />
   </component>
