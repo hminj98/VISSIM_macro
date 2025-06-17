@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim20-30_car100.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_car100.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3.stvm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3.stvm.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +204,7 @@
       <workItem from="1748992669912" duration="2845000" />
       <workItem from="1750028643326" duration="5492000" />
       <workItem from="1750038646743" duration="12136000" />
-      <workItem from="1750058892965" duration="1831000" />
+      <workItem from="1750058892965" duration="24787000" />
     </task>
     <servers />
   </component>
