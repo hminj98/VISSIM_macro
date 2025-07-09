@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/4.0/3.stvm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3.stvm.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -204,7 +205,15 @@
       <workItem from="1748992669912" duration="2845000" />
       <workItem from="1750028643326" duration="5492000" />
       <workItem from="1750038646743" duration="12136000" />
-      <workItem from="1750058892965" duration="24787000" />
+      <workItem from="1750058892965" duration="28000000" />
+      <workItem from="1750200900058" duration="7974000" />
+      <workItem from="1750311852418" duration="14688000" />
+      <workItem from="1750653487966" duration="1405000" />
+      <workItem from="1750747390650" duration="2747000" />
+      <workItem from="1750809348774" duration="13940000" />
+      <workItem from="1750893241415" duration="6834000" />
+      <workItem from="1751238350186" duration="9504000" />
+      <workItem from="1751951058392" duration="7180000" />
     </task>
     <servers />
   </component>
