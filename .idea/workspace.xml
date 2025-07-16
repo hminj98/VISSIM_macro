@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.0.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3.stvm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3.stvm_V1.0.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/4.0/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3.stvm_V1.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3.stvm_V1.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +220,9 @@
       <workItem from="1752447364016" duration="4569000" />
       <workItem from="1752455935426" duration="1273000" />
       <workItem from="1752457295668" duration="369000" />
-      <workItem from="1752457856797" duration="16038000" />
+      <workItem from="1752457856797" duration="16447000" />
+      <workItem from="1752535300023" duration="25525000" />
+      <workItem from="1752621017891" duration="21806000" />
     </task>
     <servers />
   </component>
