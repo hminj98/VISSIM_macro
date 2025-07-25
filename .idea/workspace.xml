@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.0.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3.stvm_V1.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3.stvm_V1.0.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/4.0/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +224,17 @@
       <workItem from="1752457295668" duration="369000" />
       <workItem from="1752457856797" duration="16447000" />
       <workItem from="1752535300023" duration="25525000" />
-      <workItem from="1752621017891" duration="21806000" />
+      <workItem from="1752621017891" duration="23262000" />
+      <workItem from="1752708045774" duration="18009000" />
+      <workItem from="1752732223147" duration="77000" />
+      <workItem from="1752794376970" duration="1475000" />
+      <workItem from="1753054761455" duration="6976000" />
+      <workItem from="1753237164971" duration="3732000" />
+      <workItem from="1753252402242" duration="2421000" />
+      <workItem from="1753311145640" duration="3740000" />
+      <workItem from="1753330125714" duration="6140000" />
+      <workItem from="1753336853600" duration="6030000" />
+      <workItem from="1753406072684" duration="9337000" />
     </task>
     <servers />
   </component>
