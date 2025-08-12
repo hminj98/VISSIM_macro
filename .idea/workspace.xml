@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.2-test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.2-test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.2-test2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.2-test2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,6 +243,7 @@
       <workItem from="1754447426724" duration="2589000" />
       <workItem from="1754452734964" duration="11580000" />
       <workItem from="1754866296267" duration="21439000" />
+      <workItem from="1754953469311" duration="26320000" />
     </task>
     <servers />
   </component>
