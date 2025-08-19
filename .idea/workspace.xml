@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim20-30_volume.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2.0/sim5-15_volume.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/1-1.time_average_iteration2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/1-1.time_average_iteration2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/1.time_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/1.time_average_iteration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/2-1.vehicle_average_iteration2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/2-1.vehicle_average_iteration2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/2.vehicle_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/2.vehicle_average_iteration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.0/vehicle_type.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.0/vehicle_type.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.1_ground/vehicle_type_ground.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.1_ground/vehicle_type_ground.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.1_ground/volume_output_ground.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.1_ground/volume_output_ground.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/3.1_ground/weights_output_ground.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/3.1_ground/weights_output_ground.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.2-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/4.0/3-1.stvm_V2.2-2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -252,7 +242,7 @@
       <workItem from="1754953469311" duration="26654000" />
       <workItem from="1755040478908" duration="30476000" />
       <workItem from="1755471455052" duration="4726000" />
-      <workItem from="1755483021314" duration="14819000" />
+      <workItem from="1755483021314" duration="17254000" />
     </task>
     <servers />
   </component>
