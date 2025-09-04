@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/network_version2/other/average.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/1. inpx/sim20-30_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/1. inpx/sim20-30_volume.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/1. inpx/sim20-30_volume_maxVolume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/1. inpx/sim20-30_volume_maxVolume.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/1. inpx/sim5-15_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/1. inpx/sim5-15_volume.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/1. inpx/sim5-15_volume_maxVolume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/1. inpx/sim5-15_volume_maxVolume.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-6.stvm_V2.2-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/3-6.stvm_V2.2-3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/4.stvm_V3.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/4.stvm_V3.0.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/other/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/average.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/other/average.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +262,7 @@
       <workItem from="1756162788972" duration="22943000" />
       <workItem from="1756248758380" duration="7995000" />
       <workItem from="1756685600678" duration="19314000" />
-      <workItem from="1756769426413" duration="7251000" />
+      <workItem from="1756769426413" duration="29450000" />
     </task>
     <servers />
   </component>
