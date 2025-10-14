@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-6.stvm_V2.2-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/3-6.stvm_V2.2-3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-7.stvm_V2.2-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/3-7.stvm_V2.2-4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/4.stvm_V3.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/4.stvm_V3.0.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,9 +72,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Workspace\vissimTest_Python\network_version2\6. stvm" />
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\test" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\5. output" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\1. inpx" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\test" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\4.0" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -260,6 +262,9 @@
       <workItem from="1756942126789" duration="1955000" />
       <workItem from="1757027811719" duration="2000" />
       <workItem from="1759103920264" duration="1176000" />
+      <workItem from="1759370346498" duration="4992000" />
+      <workItem from="1760310474985" duration="16110000" />
+      <workItem from="1760396131591" duration="10527000" />
     </task>
     <servers />
   </component>
