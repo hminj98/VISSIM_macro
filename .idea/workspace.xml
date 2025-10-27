@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-6.stvm_V2.2-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/3-6.stvm_V2.2-3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-7.stvm_V2.2-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/3-7.stvm_V2.2-4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/4.stvm_V3.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/4.stvm_V3.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/4-1.stvm_V3.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6. stvm/4-1.stvm_V3.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/test/3-1.stvm_V2.2-4-1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/test/3-1.stvm_V2.2-4.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -53,36 +53,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/vissimTest_Python/network_version2/6. stvm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django 서버.vissimTest_Python.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Workspace/vissimTest_Python/network_version2/6-1. stvm_pattern",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\6-1. stvm_pattern" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\6. stvm" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\test" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\5. output" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\1. inpx" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\4.0" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\6-1. stvm_pattern" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\other" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\mer" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\vehicle_output" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\output" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\weights_output" />
     </key>
   </component>
   <component name="RunManager">
@@ -93,8 +95,10 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="my_django_proj_21.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.7 (vissimTest_Python)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -264,7 +268,15 @@
       <workItem from="1759103920264" duration="1176000" />
       <workItem from="1759370346498" duration="4992000" />
       <workItem from="1760310474985" duration="16110000" />
-      <workItem from="1760396131591" duration="10527000" />
+      <workItem from="1760396131591" duration="13791000" />
+      <workItem from="1760427791092" duration="5825000" />
+      <workItem from="1760501612935" duration="3644000" />
+      <workItem from="1760507076684" duration="2322000" />
+      <workItem from="1760569152682" duration="11209000" />
+      <workItem from="1760659642919" duration="5452000" />
+      <workItem from="1761099857402" duration="7973000" />
+      <workItem from="1761179354630" duration="606000" />
+      <workItem from="1761521786530" duration="31640000" />
     </task>
     <servers />
   </component>
@@ -281,5 +293,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/vissimTest_Python$calculator.coverage" NAME="calculator 커버리지 결과" MODIFIED="1760489208751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
 </project>
