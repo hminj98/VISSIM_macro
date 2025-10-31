@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/1.stvm_pattern_rampX.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/1.stvm_pattern_rampX.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/2.stvm_pattern_exit_ramp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/2.stvm_pattern_exit_ramp.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/3.stvm_pattern_entry_ramp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/3.stvm_pattern_entry_ramp.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/4.stvm_pattern_entry_exit_ramp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/4.stvm_pattern_entry_exit_ramp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/5.stvm_pattern_hwaseong_seoul.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/5.stvm_pattern_hwaseong_seoul.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +276,9 @@
       <workItem from="1761179354630" duration="606000" />
       <workItem from="1761521786530" duration="32141000" />
       <workItem from="1761605588271" duration="37403000" />
-      <workItem from="1761693632359" duration="17067000" />
+      <workItem from="1761693632359" duration="18584000" />
+      <workItem from="1761789096488" duration="600000" />
+      <workItem from="1761865006215" duration="8877000" />
     </task>
     <servers />
   </component>
