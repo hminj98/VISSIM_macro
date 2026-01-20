@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/network_version2/2025/other/crawling.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../construction/python/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/../construction/python/api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../construction/python/core/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../construction/python/core/parser.py" afterDir="false" />
@@ -12,12 +13,60 @@
       <change beforePath="$PROJECT_DIR$/../roadSoftware/test.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../roadSoftware/test2.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_2.0/change_format.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/other/construction/V_2.0/change_format.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_2.0/sigongdo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/other/construction/V_2.0/sigongdo.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/road_point.json" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/resource/road_point.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/route_name.json" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/resource/route_name.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/1. inpx/sim20-30_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/1. inpx/sim20-30_volume.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/1. inpx/sim20-30_volume_maxVolume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/1. inpx/sim20-30_volume_maxVolume.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/1. inpx/sim5-15_volume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/1. inpx/sim5-15_volume.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/1. inpx/sim5-15_volume_maxVolume.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/1. inpx/sim5-15_volume_maxVolume.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2. mer/1-1.time_average_iteration2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/2. mer/1-1.time_average_iteration2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2. mer/1.time_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/2. mer/1.time_average_iteration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2. mer/2-1.vehicle_average_iteration2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/2. mer/2-1.vehicle_average_iteration2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2. mer/2.vehicle_average_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/2. mer/2.vehicle_average_iteration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2. mer/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/2. mer/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/3. vehicle_output/vehicle_type.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/3. vehicle_output/vehicle_type.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/3. vehicle_output/vehicle_type_ground.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/3. vehicle_output/vehicle_type_ground.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/3. vehicle_output/vehicle_weights_iteration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/3. vehicle_output/vehicle_weights_iteration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/3. vehicle_output/vehicle_weights_iteration_ground.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/3. vehicle_output/vehicle_weights_iteration_ground.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4. weights_output/weights_output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/4. weights_output/weights_output.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/4. weights_output/weights_output_ground.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/4. weights_output/weights_output_ground.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/5. output/volume_output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/5. output/volume_output.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/5. output/volume_output_ground.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/5. output/volume_output_ground.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/5. output/volume_output_ground_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/5. output/volume_output_ground_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/1.stvm_pattern_rampX.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6-1. stvm_pattern/1.stvm_pattern_rampX.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/2.stvm_pattern_exit_ramp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6-1. stvm_pattern/2.stvm_pattern_exit_ramp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/3.stvm_pattern_entry_ramp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6-1. stvm_pattern/3.stvm_pattern_entry_ramp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/4.stvm_pattern_entry_exit_ramp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6-1. stvm_pattern/4.stvm_pattern_entry_exit_ramp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6-1. stvm_pattern/5.stvm_pattern_hwaseong_seoul.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6-1. stvm_pattern/5.stvm_pattern_hwaseong_seoul.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/1.vehicle_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/1.vehicle_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/2.std.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/2.std.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-1.stvm_V2.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/3-1.stvm_V2.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-2.stvm_V2.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/3-2.stvm_V2.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-3.stvm_V2.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/3-3.stvm_V2.2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-4.stvm_V2.2-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/3-4.stvm_V2.2-1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-5.stvm_V2.2-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/3-5.stvm_V2.2-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-6.stvm_V2.2-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/3-6.stvm_V2.2-3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3-7.stvm_V2.2-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/3-7.stvm_V2.2-4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/3.stvm_V1.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/3.stvm_V1.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/4-1.stvm_V3.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/4-1.stvm_V3.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/6. stvm/4.stvm_V3.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/6. stvm/4.stvm_V3.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/avc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/avc.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/average.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/average.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/bus_simul.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/bus_simul.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_1.0/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/construction/V_1.0/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_1.0/remove_error.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/construction/V_1.0/remove_error.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_1.0/remove_error2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/construction/V_1.0/remove_error2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_1.0/sigongdo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/construction/V_1.0/sigongdo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_1.0/sigongdo_paint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/construction/V_1.0/sigongdo_paint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_2.0/change_format.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/construction/V_2.0/change_format.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_2.0/sigongdo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/construction/V_2.0/sigongdo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/construction/V_2.0/sigongdo_paint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/construction/V_2.0/sigongdo_paint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/crawling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/csv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/csv.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/file_arrange.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/file_arrange.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/rename_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/rename_file.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/other/vds.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/vds.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/resource/road_point.json" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/resource/road_point.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/resource/route_name.json" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/resource/route_name.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,44 +123,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Django 서버.vissimTest_Python.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;Python 테스트.test.py 내 Python 테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/vissimTest_Python/network_version2/other&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django 서버.vissimTest_Python.executor": "Run",
+    "JavaScript 디버그.index.html.executor": "Run",
+    "Python 테스트.test.py 내 Python 테스트.executor": "Run",
+    "Python.api.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Workspace/vissimTest_Python/network_version2/2026/2. stvm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\2. stvm" />
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\1. inpx" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\other" />
       <recent name="C:\Workspace\construction\python\core\resources" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\7. construction\python" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction\V_2.0" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2025" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\resource" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction\V_2.0" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction\V_1.0" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\6-1. stvm_pattern" />
     </key>
   </component>
   <component name="RunManager">
@@ -332,7 +381,22 @@
       <workItem from="1766098316563" duration="13207000" />
       <workItem from="1766360177052" duration="9821000" />
       <workItem from="1766467404974" duration="9427000" />
-      <workItem from="1766531157695" duration="1139000" />
+      <workItem from="1766531157695" duration="19457000" />
+      <workItem from="1766962736632" duration="20788000" />
+      <workItem from="1767567114747" duration="12617000" />
+      <workItem from="1767676258380" duration="6516000" />
+      <workItem from="1767740083547" duration="18961000" />
+      <workItem from="1767826605448" duration="9763000" />
+      <workItem from="1767912623269" duration="11686000" />
+      <workItem from="1767929300516" duration="14623000" />
+      <workItem from="1768172200389" duration="12902000" />
+      <workItem from="1768258256188" duration="10234000" />
+      <workItem from="1768269707978" duration="9097000" />
+      <workItem from="1768368884601" duration="5648000" />
+      <workItem from="1768431083257" duration="3871000" />
+      <workItem from="1768453667320" duration="2044000" />
+      <workItem from="1768526084192" duration="5328000" />
+      <workItem from="1768777487062" duration="28376000" />
     </task>
     <servers />
   </component>
@@ -352,8 +416,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/vissimTest_Python$api.coverage" NAME="api 커버리지 결과" MODIFIED="1765934401762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../construction/python" />
-    <SUITE FILE_PATH="coverage/vissimTest_Python$calculator.coverage" NAME="calculator 커버리지 결과" MODIFIED="1760489208751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/vissimTest_Python$app.coverage" NAME="app 커버리지 결과" MODIFIED="1765951457119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../construction/python" />
+    <SUITE FILE_PATH="coverage/vissimTest_Python$calculator.coverage" NAME="calculator 커버리지 결과" MODIFIED="1767676287809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/vissimTest_Python$.coverage" NAME=" 커버리지 결과" MODIFIED="1766024076325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../construction/test" />
     <SUITE FILE_PATH="coverage/vissimTest_Python$test.coverage" NAME="test 커버리지 결과" MODIFIED="1765943809895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../construction/test" />
   </component>
