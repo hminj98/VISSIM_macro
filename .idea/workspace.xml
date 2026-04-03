@@ -13,10 +13,16 @@
       <change beforePath="$PROJECT_DIR$/../roadSoftware/test2.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2025/other/avc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/avc.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2025/other/crawling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2025/other/vds.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/vds.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30(total).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30(total).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15(total).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15(total).ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_version2/2026/2. stvm/2. stvm__hwaseong_seoul_V1.0_only_Seoul.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/2. stvm/2. stvm__hwaseong_seoul_V1.0_only_Seoul.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/2. stvm/3. stvm__toynetwork_V1.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/2. stvm/3. stvm__toynetwork_V1.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/2. stvm/3. stvm__toynetwork_V1.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/3. model/1. model__hwaseong_seoul_V1.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/2. stvm/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/2. stvm/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/3. model/1. model__hwaseong_seoul_V1.0_only_Seoul.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/4. toynetwork/1. stvm__toynetwork_V1.0(램프X).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/3. model/test.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +103,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/vissimTest_Python/network_version2/2026/3. model&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/vissimTest_Python/network_version2/2026/1. inpx&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -117,18 +123,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\3. model" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\1. inpx" />
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2025\other" />
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\3. model" />
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\4. toynetwork" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\2. stvm" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\other" />
-      <recent name="C:\Workspace\construction\python\core\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\4. toynetwork" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2025" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\resource" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction\V_2.0" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction\V_1.0" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction" />
     </key>
   </component>
   <component name="RunManager">
@@ -413,7 +419,25 @@
       <workItem from="1772492321133" duration="32477000" />
       <workItem from="1772601136628" duration="166000" />
       <workItem from="1772601340831" duration="53437000" />
-      <workItem from="1772778649665" duration="1593000" />
+      <workItem from="1772778649665" duration="5479000" />
+      <workItem from="1772804885222" duration="4980000" />
+      <workItem from="1773034273236" duration="8123000" />
+      <workItem from="1773121421255" duration="1046000" />
+      <workItem from="1773128232028" duration="23396000" />
+      <workItem from="1773277915033" duration="6389000" />
+      <workItem from="1773615626147" duration="35877000" />
+      <workItem from="1773728866952" duration="24358000" />
+      <workItem from="1773819306088" duration="2889000" />
+      <workItem from="1773875714714" duration="54856000" />
+      <workItem from="1773998378252" duration="12028000" />
+      <workItem from="1774214449752" duration="655000" />
+      <workItem from="1774220543485" duration="84703000" />
+      <workItem from="1774565996208" duration="15460000" />
+      <workItem from="1774828655852" duration="8653000" />
+      <workItem from="1774845990679" duration="2330000" />
+      <workItem from="1774848384229" duration="42521000" />
+      <workItem from="1775085140604" duration="11116000" />
+      <workItem from="1775170880840" duration="5869000" />
     </task>
     <servers />
   </component>
