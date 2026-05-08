@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/model_senario_simulation_v1-2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../construction/python/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/../construction/python/api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../construction/python/core/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../construction/python/core/parser.py" afterDir="false" />
@@ -13,16 +14,10 @@
       <change beforePath="$PROJECT_DIR$/../roadSoftware/test2.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2025/other/avc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/avc.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2025/other/crawling.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2025/other/vds.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2025/other/vds.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30(total).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30(total).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15(total).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15(total).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/2. stvm/2. stvm__hwaseong_seoul_V1.0_only_Seoul.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/2. stvm/2. stvm__hwaseong_seoul_V1.0_only_Seoul.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/2. stvm/3. stvm__toynetwork_V1.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/3. model/1. model__hwaseong_seoul_V1.0.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/2. stvm/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/2. stvm/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/3. model/1. model__hwaseong_seoul_V1.0_only_Seoul.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/4. toynetwork/1. stvm__toynetwork_V1.0(램프X).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_version2/2026/3. model/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/model_senario.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/3. model/2. model__hwaseong_seoul_V2.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/3. model/2. model__hwaseong_seoul_V2.0.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/3. model/3. model__hwaseong_seoul_V2.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/3. model/3. model__hwaseong_seoul_V2.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/4. toynetwork/1. stvm__toynetwork_V1.0(램프X).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/4. toynetwork/1. stvm__toynetwork_V1.0(램프X).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,33 +81,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Django 서버.vissimTest_Python.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;Python 테스트.test.py 내 Python 테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Python.api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/vissimTest_Python/network_version2/2026/1. inpx&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django 서버.vissimTest_Python.executor": "Run",
+    "JavaScript 디버그.index.html.executor": "Run",
+    "Python 테스트.test.py 내 Python 테스트.executor": "Run",
+    "Python.api.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Workspace/vissimTest_Python/network_version2/2026/3. model",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="vissimTest_Python" is-module-sdk="true">
@@ -123,18 +118,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\1. inpx" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\2025\other" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\3. model" />
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\1. inpx" />
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\5. hwaseongseoul" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\4. toynetwork" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\2. stvm" />
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\5. hwaseongseoul" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\4. toynetwork" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2025" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\resource" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction\V_2.0" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\other\construction\V_1.0" />
     </key>
   </component>
   <component name="RunManager">
@@ -437,7 +432,26 @@
       <workItem from="1774845990679" duration="2330000" />
       <workItem from="1774848384229" duration="42521000" />
       <workItem from="1775085140604" duration="11116000" />
-      <workItem from="1775170880840" duration="5869000" />
+      <workItem from="1775170880840" duration="11752000" />
+      <workItem from="1775430566712" duration="75339000" />
+      <workItem from="1776039841301" duration="46440000" />
+      <workItem from="1776293347740" duration="32279000" />
+      <workItem from="1776387619711" duration="52057000" />
+      <workItem from="1776842362607" duration="1342000" />
+      <workItem from="1776861852505" duration="2770000" />
+      <workItem from="1777004113251" duration="2222000" />
+      <workItem from="1777031986492" duration="7853000" />
+      <workItem from="1777330797044" duration="17833000" />
+      <workItem from="1777380289059" duration="2330000" />
+      <workItem from="1777450274022" duration="3067000" />
+      <workItem from="1777465733265" duration="4178000" />
+      <workItem from="1777503853984" duration="18490000" />
+      <workItem from="1777540421535" duration="3430000" />
+      <workItem from="1777603348935" duration="6872000" />
+      <workItem from="1777674409139" duration="16784000" />
+      <workItem from="1777987977104" duration="2147000" />
+      <workItem from="1778021955440" duration="28598000" />
+      <workItem from="1778107772806" duration="34251000" />
     </task>
     <servers />
   </component>
