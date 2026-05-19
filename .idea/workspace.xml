@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b25938-4d6c-4803-b457-200bf8d38f20" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../construction/python/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/../construction/python/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../construction/python/core/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../construction/python/core/parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../naeilenc" beforeDir="false" afterPath="$PROJECT_DIR$/../naeilenc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roadSoftware/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roadSoftware/test2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30(화성~서울).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30(화성~서울).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30(화성~서울)2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation20-30(화성~서울)2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15(화성~서울).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15(화성~서울).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15(화성~서울)2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/basic_simulation5-15(화성~서울)2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/model_senario_simulation_v1-3(본선부).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/model_senario_simulation_v1-3(본선부).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/model_senario_simulation_v1-3(진입부).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/model_senario_simulation_v1-3(진입부).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/1. inpx/model_senario_simulation_v1-3(진출부).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/1. inpx/model_senario_simulation_v1-3(진출부).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/3. model/6. test2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/network_version2/2026/3. model/6. test2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_version2/2026/5. hwaseongseoul/4. stvm__hwaseongseoul_V1.0(유입+유출램프).ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,40 +73,40 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2tsNPwJfoTm2jl6v8cMzTrKkrZV" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Django 서버.vissimTest_Python.executor": "Run",
-    "JavaScript 디버그.index.html.executor": "Run",
-    "Python 테스트.test.py 내 Python 테스트.executor": "Run",
-    "Python.api.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.calculator.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Workspace/vissimTest_Python/network_version2/2026/3. model",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django 서버.vissimTest_Python.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript 디버그.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python 테스트.test.py 내 Python 테스트.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/network_version2/2026/1. inpx&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="vissimTest_Python" is-module-sdk="true">
@@ -112,11 +117,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\network_version2\2026\1. inpx" />
+      <recent name="C:\Workspace\network_version2\2026\5. hwaseongseoul" />
+      <recent name="C:\Workspace\network_version2\2026\3. model" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\3. model" />
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\1. inpx" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\5. hwaseongseoul" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\4. toynetwork" />
-      <recent name="C:\Workspace\vissimTest_Python\network_version2\2026" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Workspace\vissimTest_Python\network_version2\2026\5. hwaseongseoul" />
@@ -446,6 +451,11 @@
       <workItem from="1777987977104" duration="2147000" />
       <workItem from="1778021955440" duration="28598000" />
       <workItem from="1778107772806" duration="36271000" />
+      <workItem from="1778226432359" duration="420000" />
+      <workItem from="1778567408812" duration="3198000" />
+      <workItem from="1778625642022" duration="7552000" />
+      <workItem from="1779070379363" duration="3157000" />
+      <workItem from="1779169386368" duration="8669000" />
     </task>
     <servers />
   </component>
@@ -462,6 +472,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/vissimTest_Python$api.coverage" NAME="api 커버리지 결과" MODIFIED="1765934401762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../construction/python" />
