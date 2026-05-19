@@ -1,0 +1,9 @@
+.idea/
+.venv/
+.venv1/
+__pycache__/
+*.pyc
+*.mer
+*.db
+*.parquet
+*.results/
